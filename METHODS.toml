@@ -1,0 +1,11 @@
+[package]
+name = "expense-reports"
+address = "github.com/mthds-demo/expense-reports"
+display_name = "Expense Reports"
+version = "1.0.0"
+description = "Extract data from receipt PDFs and compile a structured expense report"
+mthds_version = ">=1.0.0"
+main_pipe = "build_expense_report"
+
+[exports.expense_reports]
+pipes = ["build_expense_report", "process_receipt", "extract_pages", "analyze_receipt", "compile_report"]

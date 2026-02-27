@@ -1,0 +1,26 @@
+{
+  "receipts": {
+    "concept": "native.Document",
+    "content": [
+      {"url": "mthds-wip/expense_reports/inputs/Bluestone 23022022 - 2.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Bluestone Lane - 23022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Chipotle - 24022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Coffee Bodega - 25022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Hallal Modena PIzza - Catering Event - 25022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Key Klub - 24022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/La Chtite Brigitte - 29012026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/La Fossetta - 29012026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Lori_s Diner - 22022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Matador - 23022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/OZZY_S CAFE & GRILL - 23022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Persona - 23022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/AirFranceInvoice12022026- Avril - Louis.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/FactureAirFrance12022026 - Avril - Robin.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/FactureAirFrance29012026 - Robin & Louis.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/FactureAirFrance29012026 - Thomas.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Uber Aéroport 22022026.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/AI Camp - Receipt.pdf", "mime_type": "application/pdf"},
+      {"url": "mthds-wip/expense_reports/inputs/Invoice_ HumanX 2026 San Francisco.pdf", "mime_type": "application/pdf"}
+    ]
+  }
+}

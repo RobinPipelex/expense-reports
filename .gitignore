@@ -1,0 +1,15 @@
+# Generated outputs
+*.html
+*.json
+!inputs.json
+*.xlsx
+~$*
+
+# User data
+inputs/
+
+# Misc
+*.mmd
+viewspec.json
+dry_run.*
+live_run.*
