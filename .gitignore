@@ -1,15 +1,12 @@
-# Generated outputs
-*.html
-*.json
-*.xlsx
+# Generated outputs (root level)
+/*.html
+/*.json
+/*.xlsx
+/*.mmd
 ~$*
-
-# User/runtime data
-inputs/
-inputs.json
-
-# Misc
-*.mmd
-viewspec.json
 dry_run.*
 live_run.*
+viewspec.json
+
+# User receipt data
+inputs/
