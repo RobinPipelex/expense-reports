@@ -1,12 +1,12 @@
 # Generated outputs
 *.html
 *.json
-!inputs.json
 *.xlsx
 ~$*
 
-# User data
+# User/runtime data
 inputs/
+inputs.json
 
 # Misc
 *.mmd
